@@ -2,161 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9a8682b-ffd3-4a0d-8557-0916b1e86a07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/parsa-hugo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archetypes/articles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/a.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/articles/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/articles/first-article.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/articles/second-article.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/articles/third-article.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/dir1/_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/dir1/b.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/dir1/dir2/d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/_default/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ga-hugo-theme" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/archetypes/default.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/assets/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/config.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/bill/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/bill/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/bill/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/manage/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/manage/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/manage/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/ownership/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/ownership/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/ownership/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/payment/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/payment/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/payment/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/profile/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/profile/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/billing-pricing/profile/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/contact/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/contact/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/faq/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/faq/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/linux/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/linux/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/linux/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/mac/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/mac/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/mac/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/routing/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/routing/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/routing/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/ubuntu/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/ubuntu/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/ubuntu/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/windows/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/windows/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/features/windows/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/configuration/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/configuration/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/customization/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/customization/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/elements/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/elements/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/elements/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/install/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/install/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/requirments/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/requirments/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/content/installation/requirments/hugo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/config.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/bill/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/bill/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/bill/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/manage/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/manage/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/manage/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/ownership/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/ownership/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/ownership/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/payment/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/payment/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/payment/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/profile/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/profile/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/billing-pricing/profile/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/contact/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/contact/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/faq/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/faq/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/linux/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/linux/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/linux/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/mac/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/mac/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/mac/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/routing/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/routing/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/routing/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/ubuntu/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/ubuntu/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/ubuntu/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/windows/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/windows/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/features/windows/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/configuration/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/configuration/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/customization/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/customization/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/elements/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/elements/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/elements/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/install/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/install/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/requirments/_index.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/requirments/_index.fr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/content/installation/requirments/hugo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/i18n/en.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/i18n/fr.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/static/images/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/exampleSite/static/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/i18n/en.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/i18n/fr.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/images/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/images/tn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/_default/baseof.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/_default/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/_default/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/contact/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/faq/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/partials/banner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/partials/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/partials/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/partials/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/partials/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/shortcodes/faq.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/shortcodes/notice.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/shortcodes/tab.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/layouts/shortcodes/tabs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/images/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/bootstrap/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/bootstrap/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/highlight/highlight.pack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/highlight/hybrid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/jquery/jquery-1.12.4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/jquery/jquery-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/match-height/jquery.matchHeight-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/themify-icons/fonts/themify.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/themify-icons/fonts/themify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/themify-icons/fonts/themify.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/themify-icons/fonts/themify.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/static/plugins/themify-icons/themify-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme/theme.toml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/parsa-hugo" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -205,7 +66,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582120749712</updated>
-      <workItem from="1582120750875" duration="2981000" />
+      <workItem from="1582120750875" duration="5736000" />
+      <workItem from="1582128138678" duration="2931000" />
+      <workItem from="1582184361827" duration="1432000" />
     </task>
     <servers />
   </component>
@@ -220,13 +83,13 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="464" y="250" width="992" height="731" key="SettingsEditor" timestamp="1582123731594">
+    <state x="464" y="250" width="992" height="731" key="SettingsEditor" timestamp="1582128603792">
       <screen x="0" y="25" width="1920" height="1175" />
     </state>
-    <state x="464" y="250" width="992" height="731" key="SettingsEditor/0.25.1920.1175@0.25.1920.1175" timestamp="1582123731594" />
-    <state x="623" y="289" key="search.everywhere.popup" timestamp="1582123488851">
+    <state x="464" y="250" width="992" height="731" key="SettingsEditor/0.25.1920.1175@0.25.1920.1175" timestamp="1582128603792" />
+    <state x="623" y="289" width="672" height="678" key="search.everywhere.popup" timestamp="1582185840583">
       <screen x="0" y="25" width="1920" height="1175" />
     </state>
-    <state x="623" y="289" key="search.everywhere.popup/0.25.1920.1175@0.25.1920.1175" timestamp="1582123488851" />
+    <state x="623" y="289" width="672" height="678" key="search.everywhere.popup/0.25.1920.1175@0.25.1920.1175" timestamp="1582185840583" />
   </component>
 </project>

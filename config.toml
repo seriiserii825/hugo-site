@@ -1,4 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "parsa-hugo"
+#theme = "parsa-hugo"
+theme = "ga-hugo-theme"
+[taxonomies]
+	tag = "tags"
+	category = "categories"
