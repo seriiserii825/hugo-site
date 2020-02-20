@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9a8682b-ffd3-4a0d-8557-0916b1e86a07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/archetypes/articles.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/a.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/articles/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/articles/first-article.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/articles/second-article.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/articles/third-article.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/dir1/_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/dir1/b.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/dir1/dir2/d.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ga-hugo-theme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/news/news-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/news/news-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/_default/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ga-hugo-theme/layouts/news/single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/a.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/dir1/_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/dir1/b.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/dir1/dir2/d.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ga-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ga-hugo-theme" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +24,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/ga-hugo-theme" />
   </component>
   <component name="ProjectId" id="1Y1r4S5BTLTUMp0PXNpo8HDYfr4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -68,7 +62,7 @@
       <updated>1582120749712</updated>
       <workItem from="1582120750875" duration="5736000" />
       <workItem from="1582128138678" duration="2931000" />
-      <workItem from="1582184361827" duration="1432000" />
+      <workItem from="1582184361827" duration="2121000" />
     </task>
     <servers />
   </component>
@@ -87,9 +81,9 @@
       <screen x="0" y="25" width="1920" height="1175" />
     </state>
     <state x="464" y="250" width="992" height="731" key="SettingsEditor/0.25.1920.1175@0.25.1920.1175" timestamp="1582128603792" />
-    <state x="623" y="289" width="672" height="678" key="search.everywhere.popup" timestamp="1582185840583">
+    <state x="623" y="289" width="672" height="678" key="search.everywhere.popup" timestamp="1582186424779">
       <screen x="0" y="25" width="1920" height="1175" />
     </state>
-    <state x="623" y="289" width="672" height="678" key="search.everywhere.popup/0.25.1920.1175@0.25.1920.1175" timestamp="1582185840583" />
+    <state x="623" y="289" width="672" height="678" key="search.everywhere.popup/0.25.1920.1175@0.25.1920.1175" timestamp="1582186424779" />
   </component>
 </project>
